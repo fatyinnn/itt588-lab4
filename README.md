@@ -24,7 +24,7 @@ ITT588 Lab Work 4: a front-end web app that visualises a family heritage dataset
 ## Mobile view
 | Home | Member details | Directory |
 |---|---|---|
-| | <img src="screenshots/mobile-home.jpg" width="220"> | <img src="screenshots/mobile-member.jpg" width="220"> | <img src="screenshots/mobile-directory.jpg" width="220"> | |
+| <img src="screenshots/mobile-home.jpg" width="220"> | <img src="screenshots/mobile-member.jpg" width="220"> | <img src="screenshots/mobile-directory.jpg" width="220"> |
 
 ## Project structure (MVC)
 | Layer | File | Role |
