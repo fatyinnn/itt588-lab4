@@ -21,9 +21,14 @@ ITT588 Lab Work 4: a front-end web app that visualises a family heritage dataset
 ![Member details](screenshots/member.png)
 ![Directory](screenshots/directory.png)
 
+## Mobile view
+| Home | Member details | Directory |
+|---|---|---|
+| <img src="screenshots/mobile-home.png" width="220"> | <img src="screenshots/mobile-member.png" width="220"> | <img src="screenshots/mobile-directory.png" width="220"> |
+
 ## Project structure (MVC)
 | Layer | File | Role |
-
+|---|---|---|
 | Model | `js/model.js` | Loads the JSON and answers relationship queries (parents, spouses, children, siblings, filtering) |
 | View | `js/view.js` | Renders the tree, cards, detail page and directory table as HTML |
 | Controller | `js/controller.js` | Handles events (search, filters, sorting) and connects Model and View |
