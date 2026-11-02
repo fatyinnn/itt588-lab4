@@ -17,14 +17,14 @@ ITT588 Lab Work 4: a front-end web app that visualises a family heritage dataset
 - Deceased members are shown in grey with their years of birth and death
 
 ## Screenshots
-![Home page](Screenshots/home.png)
-![Member details](Screenshots/member.png)
-![Directory](Screenshots/directory.png)
+![Home page](screenshots/home.png)
+![Member details](screenshots/member.png)
+![Directory](screenshots/directory.png)
 
 ## Mobile view
 | Home | Member details | Directory |
 |---|---|---|
-| <img src="Screenshots/mobile-home.png" width="220"> | <img src="Screenshots/mobile-member.png" width="220"> | <img src="Screenshots/mobile-directory.png" width="220"> |
+| | <img src="screenshots/mobile-home.jpg" width="220"> | <img src="screenshots/mobile-member.jpg" width="220"> | <img src="screenshots/mobile-directory.jpg" width="220"> | |
 
 ## Project structure (MVC)
 | Layer | File | Role |
