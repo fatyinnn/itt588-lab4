@@ -1,0 +1,74 @@
+{
+  "title": "Walit Family",
+  "people": [
+    {
+      "id": "p1", "name": "Wan Ab Walit bin Wan Mohd", "gender": "male",
+      "dob": "1977-01-13", "dateOfDeath": "",
+      "profession": "Safety Executive", "address": "Kuantan",
+      "fatherId": "p3", "motherId": "p4",
+      "spouses": [{ "id": "p2", "status": "married" }],
+      "isInLaw": false
+    },
+    {
+      "id": "p2", "name": "Zuraina binti Abas", "gender": "female",
+      "dob": "1974-01-20", "dateOfDeath": "",
+      "profession": "Housewife", "address": "Kuantan",
+      "fatherId": "p5", "motherId": "p6",
+      "spouses": [{ "id": "p1", "status": "married" }],
+      "isInLaw": true
+    },
+    {
+      "id": "p3", "name": "Wan Mohd bin Wan Embong", "gender": "male",
+      "dob": "1931-11-21", "dateOfDeath": "2021-08-14",
+      "profession": "", "address": "Kuala Terengganu",
+      "fatherId": null, "motherId": null,
+      "spouses": [{ "id": "p4", "status": "married" }],
+      "isInLaw": false
+    },
+    {
+      "id": "p4", "name": "Zainah binti Chik", "gender": "female",
+      "dob": "1937-09-21", "dateOfDeath": "2025-06-19",
+      "profession": "", "address": "Kuantan",
+      "fatherId": null, "motherId": null,
+      "spouses": [{ "id": "p3", "status": "married" }],
+      "isInLaw": false
+    },
+    {
+      "id": "p5", "name": "Abas bin Akib", "gender": "male",
+      "dob": "1947-04-04", "dateOfDeath": "2015-10-07",
+      "profession": "", "address": "Taiping",
+      "fatherId": null, "motherId": null,
+      "spouses": [{ "id": "p6", "status": "married" }],
+      "isInLaw": true
+    },
+    {
+      "id": "p6", "name": "Zunaidah binti Shamsudin", "gender": "female",
+      "dob": "1955-06-09", "dateOfDeath": "",
+      "profession": "Housewife", "address": "Taiping",
+      "fatherId": null, "motherId": null,
+      "spouses": [{ "id": "p5", "status": "married" }],
+      "isInLaw": true
+    },
+    {
+      "id": "p7", "name": "Wan Nurfatin Nabilah binti Wan Ab Walit", "gender": "female",
+      "dob": "2001-11-28", "dateOfDeath": "",
+      "profession": "Student", "address": "Kuantan",
+      "fatherId": "p1", "motherId": "p2",
+      "spouses": [], "isInLaw": false
+    },
+    {
+      "id": "p8", "name": "Wan Nurfarah Najihah binti Wan Ab Walit", "gender": "female",
+      "dob": "2006-06-03", "dateOfDeath": "",
+      "profession": "Student", "address": "Kuantan",
+      "fatherId": "p1", "motherId": "p2",
+      "spouses": [], "isInLaw": false
+    },
+    {
+      "id": "p9", "name": "Wan Nurfatihah Nazirah bin Wan Ab Walit", "gender": "female",
+      "dob": "2009-01-26", "dateOfDeath": "",
+      "profession": "Student", "address": "Kuantan",
+      "fatherId": "p1", "motherId": "p2",
+      "spouses": [], "isInLaw": false
+    }
+  ]
+}
